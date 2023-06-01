@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// this helps us to find the maximum sum subarray of size k
 int maxSum(int arr[], int n, int k)
 {
 	int max_sum = 0;
