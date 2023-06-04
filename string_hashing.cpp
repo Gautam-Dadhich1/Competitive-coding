@@ -4,9 +4,9 @@
 #define nline "\n"
 using namespace std;
 
-// Hashing function
 const int MOD = 1e9 + 7;
 
+// Hashing function
 ll get_hash(string s)
 {
     ll h = 0;
